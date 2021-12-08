@@ -2,5 +2,5 @@ This game is a precision game where it aims and shoot at the target which is ali
 
 We have bullet count shown on the top of the screen. The player should aim the alien with lot of concentration as it moves up and down. The target(alien) can be hit by pressing ‘6’ key on the keyboard. Number 8 and 2 are used to move the gun upwards and downwards respectively. 
 
-Once the player begins the game the alien starts moving. When the bullet is heading to the target and if it hits the alien the score count is updated and bullet count decrease accordingly. Once the bullet count becomes ‘0’ the game ends and the total score is shown on the screen.
+Once the player begins the game the alien starts moving. When the bullet is heading to the target and if it hit the alien the score count is updated and bullet count decrease accordingly. Once the bullet count becomes ‘0’ the game ends and the total score is shown on the screen.
 
